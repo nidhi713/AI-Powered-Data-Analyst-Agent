@@ -2,6 +2,10 @@
 
 An AI-powered data analysis application that allows users to upload CSV datasets, generate automated insights, visualize trends, and ask natural language questions about their data using Google's Gemini model.
 
+## 🎥 Demo Video
+
+[▶ Watch Project Demo](https://raw.githubusercontent.com/nidhi713/AI-Powered-Data-Analyst-Agent/main/demo.mp4)
+
 ## 🚀 Features
 
 * 📂 CSV Dataset Upload
